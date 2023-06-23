@@ -1,0 +1,9 @@
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.RazorAssemblyInfo.cache
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\BlogAppication\obj\Debug\net7.0\BlogApplication.RazorAssemblyInfo.cs

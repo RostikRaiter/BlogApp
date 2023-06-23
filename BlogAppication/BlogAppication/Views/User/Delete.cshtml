@@ -1,0 +1,10 @@
+﻿@model DataAccessLayer.Models.User
+
+<h1>Delete User</h1>
+
+<p>Are you sure you want to delete @Model.Username?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

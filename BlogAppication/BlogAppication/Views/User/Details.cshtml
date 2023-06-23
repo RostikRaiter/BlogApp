@@ -1,0 +1,9 @@
+﻿@model DataAccessLayer.Models.User
+
+<h1>@Model.Username</h1>
+
+<p>Email: @Model.Email</p>
+<p>Role: @Model.Role</p>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+<a asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
