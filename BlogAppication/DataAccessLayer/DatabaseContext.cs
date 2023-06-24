@@ -13,6 +13,8 @@ namespace DataAccessLayer
         public DbSet<User> Users { get; set; }
         public DbSet<Blog> Blogs { get; set; }
 
+        public DatabaseContext() { }
+
         public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
         {
         }
