@@ -10,3 +10,5 @@ C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\obj\Debu
 C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
 C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
 C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\BlogApp\BlogAppication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
